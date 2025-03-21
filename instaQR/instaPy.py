@@ -7,8 +7,8 @@ from io import BytesIO
 # ============================
 # 🔗 Step 1: User Input for Instagram Profile URL
 # ============================
-instagram_username = "instagram"
-#instagram_username = input("Enter your Instagram username: ")  # User can input their Instagram username
+#instagram_username = "instagram"
+instagram_username = input("Enter your Instagram username: ")  # User can input their Instagram username
 instagram_url = f"https://www.instagram.com/{instagram_username}/"
 
 # ============================
