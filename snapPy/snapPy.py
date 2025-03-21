@@ -9,7 +9,7 @@ from io import BytesIO
 # ============================
 #snapchat_username = "snapchat"
 snapchat_username = input("Enter your snapchat username: ")  # User can input their snapchat username
-snapchat_url = f"https://www.snapchat.com/add/@{snapchat_username}/"
+snapchat_url = f"https://www.snapchat.com/add/{snapchat_username}/"
 
 # ============================
 # 📸 Step 2: Create QR Code
