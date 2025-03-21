@@ -9,7 +9,7 @@ from io import BytesIO
 # ============================
 #spotify_username = "spotify"
 spotify_username = input("Enter your spotify username: ")  # User can input their spotify username
-spotify_url = f"https://www.spotify.com/{spotify_username}/"
+spotify_url = f"https://open.spotify.com/user/{spotify_username}"
 
 # ============================
 # 📸 Step 2: Create QR Code
