@@ -87,7 +87,7 @@ logo.putalpha(circle_mask)
 # ============================
 # 📸 Step 5: Insert User Profile Picture (Inside the Circular Logo)
 # ============================
-user_img_url = f"https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png"  # User provides the URL
+user_img_url = f"https://i.scdn.co/image/ab6775700000ee8555c25988a6ac314394d3fbf5"  # User provides the URL
 
 try:
     # Fetch the user image from the URL
