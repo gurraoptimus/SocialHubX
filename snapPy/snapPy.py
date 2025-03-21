@@ -87,7 +87,7 @@ logo.putalpha(circle_mask)
 # ============================
 # 📸 Step 5: Insert User Profile Picture (Inside the Circular Logo)
 # ============================
-user_img_url = f""  # User provides the URL
+user_img_url = f"https://static.snapchat.com/favicon.ico"  # User provides the URL
 
 try:
     # Fetch the user image from the URL
