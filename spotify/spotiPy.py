@@ -17,7 +17,7 @@ spotify_url = f"https://www.spotify.com/{spotify_username}/"
 qr = qrcode.QRCode(
     version=5,
     error_correction=qrcode.constants.ERROR_CORRECT_H,  # High error correction for logo
-    bospotify_size=10,
+    box_size=10,
     border=4,
 )
 qr.add_data(spotify_url)
