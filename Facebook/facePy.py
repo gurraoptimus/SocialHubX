@@ -5,11 +5,11 @@ import requests
 from io import BytesIO
 
 # ============================
-# 🔗 Step 1: User Input for snapchat Profile URL
+# 🔗 Step 1: User Input for facebook Profile URL
 # ============================
-#snapchat_username = "snapchat"
-snapchat_username = input("Enter your snapchat username: ")  # User can input their snapchat username
-snapchat_url = f"https://www.snapchat.com/add/{snapchat_username}/"
+#facebook_username = "facebook"
+facebook_username = input("Enter your facebook username: ")  # User can input their facebook username
+facebook_url = f"https://www.facebook.com/{facebook_username}/"
 
 # ============================
 # 📸 Step 2: Create QR Code
@@ -20,7 +20,7 @@ qr = qrcode.QRCode(
     box_size=10,
     border=4,
 )
-qr.add_data(snapchat_url)
+qr.add_data(facebook_url)
 qr.make(fit=True)
 
 # Convert QR code to an image
@@ -28,12 +28,12 @@ qr_image = qr.make_image(fill="black", back_color="white").convert("RGBA")
 qr_width, qr_height = qr_image.size
 
 # ============================
-# 🎨 Step 3: Apply snapchat Gradient to QR Code
+# 🎨 Step 3: Apply facebook Gradient to QR Code
 # ============================
 gradient = Image.new("RGBA", (qr_width, qr_height), (255, 255, 255, 255))
 draw = ImageDraw.Draw(gradient)
 
-# snapchat gradient colors
+# facebook gradient colors
 colors = [
     (255, 195, 0),   # Yellow
     (255, 87, 34),   # Orange
@@ -62,7 +62,7 @@ for y in range(qr_height):
 final_qr = Image.fromarray(qr_array)
 
 # ============================
-# 🎭 Step 4: Create a Circular snapchat Logo
+# 🎭 Step 4: Create a Circular facebook Logo
 # ============================
 logo_size = qr_width // 3  # Adjust logo size
 circle_mask = Image.new("L", (logo_size, logo_size), 0)
@@ -73,7 +73,7 @@ mask_draw.ellipse((0, 0, logo_size, logo_size), fill=255)  # Make it a perfect c
 logo = Image.new("RGBA", (logo_size, logo_size), (255, 255, 255, 0))
 draw = ImageDraw.Draw(logo)
 
-# Draw snapchat-style gradient background
+# Draw facebook-style gradient background
 for y in range(logo_size):
     r, g, b = [
         int(colors[0][i] * (1 - y / logo_size) + colors[-1][i] * (y / logo_size))
@@ -87,7 +87,7 @@ logo.putalpha(circle_mask)
 # ============================
 # 📸 Step 5: Insert User Profile Picture (Inside the Circular Logo)
 # ============================
-user_img_url = f"https://static.snapchat.com/favicon.ico"  # User provides the URL
+user_img_url = f"https://static.facebook.com/favicon.ico"  # User provides the URL
 
 try:
     # Fetch the user image from the URL
@@ -111,7 +111,7 @@ try:
 
 except Exception as e:
     print(f"⚠️ Error loading user profile image from URL: {e}")
-    print("Using only snapchat logo.")
+    print("Using only facebook logo.")
 
 # ============================
 # 🖼️ Step 6: Overlay Circular Logo on QR Code
@@ -120,7 +120,7 @@ logo_position = ((qr_width - logo_size) // 2, (qr_height - logo_size) // 2)
 final_qr.paste(logo, logo_position, mask=logo)
 
 # Save the final QR code
-final_qr.save("snapPy.png")
+final_qr.save("facePy.png")
 
-print("✅ QR code with circular snapchat logo and user image saved as 'snapPy'.")
+print("✅ QR code with circular facebook logo and user image saved as 'facePy'.")
 final_qr.show()  # Display the QR code
