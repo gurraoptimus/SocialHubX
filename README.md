@@ -1,10 +1,12 @@
 # SocialHubX - QR Code Generator for All Users
 
-Generate a single QR code that links to all your social media profiles in one place!
+* Generate a single QR code that links to all your social media profiles in one place!
 
 
 
 ## Supported Platforms
+
+✔ [Facebook](./Facebook/)
 
 ✔ [Instagram](./Instagram/)
 
@@ -14,15 +16,13 @@ Generate a single QR code that links to all your social media profiles in one pl
 
 ✔ [X (Twitter)](./xTwitter/)
 
-✔ [Facebook](./Facebook/)
-
-❌ [Linktree](./Linktree/) comming soon.
+❌ [YouTube](./YouTube) comming soon.
 
 ❌ [LinkedIn](./Linkedin/) comming soon.
 
 ❌ [GitHub](./Github/) comming soon.
 
-❌ [YouTube](./YouTube) comming soon.
+❌ [Linktree](./Linktree/) comming soon.
 
 ❌ [Threads](./Threads) comming soon.
 
