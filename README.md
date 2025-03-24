@@ -37,7 +37,7 @@ Analytics: Track scans and engagement.
 
 # How to Use
 
-Enter your social media links.
+Enter your social media username.
 
 Generate your unique QR code.
 
@@ -69,7 +69,7 @@ cd SocialHubX
 python qr_generator.py
 ```
 
-3. Enter your social media usesname when prompted.
+3. Enter your social media username when prompted.
 4. The QR code will be generated and saved as `socialhubx_qr.png`.
 5. Share your QR code anywhere to connect with people easily!
 
