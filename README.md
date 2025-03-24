@@ -24,6 +24,7 @@ Generate a single QR code that links to all your social media profiles in one pl
 
 ❌ [YouTube](./YouTube) comming soon.
 
+❌ [Threads](./Threads) comming soon.
 
 ## Features
 
