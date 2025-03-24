@@ -6,21 +6,21 @@ Generate a single QR code that links to all your social media profiles in one pl
 
 ## Supported Platforms
 
-✔ Instagram
+[✔ Instagram](./Instagram/)
 
-✔ Snapchat
+[✔ Snapchat](./Snapchat/)
 
-✔ Spotify
+[✔ Spotify](./Spotify/)
 
-✔ X (Twitter)
+[✔ X (Twitter)](./xTwitter/)
 
-✔ Facebook
+[✔ Facebook](./Facebook/)
 
-✔ Linktree
+[✔ Linktree](./Linktree/)
 
-✔ LinkedIn
+[✔ LinkedIn](./Linkedin/)
 
-✔ GitHub
+[✔ GitHub](./Github/)
 
 
 
