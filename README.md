@@ -75,7 +75,7 @@ python qr_generator.py
 
 ## Contribution
 
-Feel free to contribute by submitting pull [requests]() or opening [issues]().
+Feel free to contribute by submitting pull [requests](https://github.com/gurraoptimus/SocialHubX/pulls) or opening [issues](https://github.com/gurraoptimus/SocialHubX/issues).
 
 ## License
 
