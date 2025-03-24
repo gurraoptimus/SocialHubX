@@ -6,21 +6,21 @@ Generate a single QR code that links to all your social media profiles in one pl
 
 ## Supported Platforms
 
-[✔ Instagram](./Instagram/)
+✔ [Instagram](./Instagram/)
 
-[✔ Snapchat](./Snapchat/)
+✔ [Snapchat](./Snapchat/)
 
-[✔ Spotify](./Spotify/)
+✔ [Spotify](./Spotify/)
 
-[✔ X (Twitter)](./xTwitter/)
+✔ [X (Twitter)](./xTwitter/)
 
-[✔ Facebook](./Facebook/)
+✔ [Facebook](./Facebook/)
 
-[✔ Linktree](./Linktree/)
+✔ [Linktree](./Linktree/)
 
-[✔ LinkedIn](./Linkedin/)
+✔ [LinkedIn](./Linkedin/)
 
-[✔ GitHub](./Github/)
+✔ [GitHub](./Github/)
 
 
 
@@ -75,7 +75,7 @@ python qr_generator.py
 
 ## Contribution
 
-Feel free to contribute by submitting pull requests or opening issues.
+Feel free to contribute by submitting pull [requests]() or opening [issues]().
 
 ## License
 
