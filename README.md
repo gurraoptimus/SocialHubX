@@ -1,3 +1,2 @@
-# SocialHubX 
-## QR Code Generator for All Users
-## Instagram, Snapchat, Spotify, X (Twitter), and Facebook
+# SocialHubX -QR Code Generator for All Users
+## Instagram, Snapchat, Spotify, X (Twitter), Facebook, Linktree, Linkedin, Github
