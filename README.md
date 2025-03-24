@@ -16,13 +16,13 @@ Generate a single QR code that links to all your social media profiles in one pl
 
 ✔ [Facebook](./Facebook/)
 
-✔ [Linktree](./Linktree/) comming soon.
+❌ [Linktree](./Linktree/) comming soon.
 
-✔ [LinkedIn](./Linkedin/) comming soon.
+❌ [LinkedIn](./Linkedin/) comming soon.
 
-✔ [GitHub](./Github/) comming soon.
+❌ [GitHub](./Github/) comming soon.
 
-✔ [YouTube](./YouTube) comming soon.
+❌ [YouTube](./YouTube) comming soon.
 
 
 ## Features
