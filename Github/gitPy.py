@@ -7,9 +7,9 @@ from io import BytesIO
 # ============================
 # 🔗 Step 1: User Input for github Profile URL
 # ============================
-github_username = "github"
-#github_username = input("Enter your github username: ")  # User can input their github username
-github_url = f"https://www.github.com/{github_username}/"
+#github_username = "github"
+github_username = input("Enter your github username: ")  # User can input their github username
+github_url = f"https://www.github.com/{github_username}/SocialHubX.git"
 
 # ============================
 # 📸 Step 2: Create QR Code
