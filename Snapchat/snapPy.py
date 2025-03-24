@@ -120,7 +120,7 @@ logo_position = ((qr_width - logo_size) // 2, (qr_height - logo_size) // 2)
 final_qr.paste(logo, logo_position, mask=logo)
 
 # Save the final QR code
-final_qr.save("snapPy.png")
+final_qr.save("../SocialHubx_qr.png")
 
-print("✅ QR code with circular snapchat logo and user image saved as 'snapPy'.")
+print("✅ QR code with circular snapchat logo and user image saved as 'SocialHubX QR Code'.")
 final_qr.show()  # Display the QR code

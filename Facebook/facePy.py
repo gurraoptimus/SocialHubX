@@ -120,7 +120,7 @@ logo_position = ((qr_width - logo_size) // 2, (qr_height - logo_size) // 2)
 final_qr.paste(logo, logo_position, mask=logo)
 
 # Save the final QR code
-final_qr.save("facePy.png")
+final_qr.save("../SocialHubX_qr.png")
 
-print("✅ QR code with circular facebook logo and user image saved as 'facePy'.")
+print("✅ QR code with circular facebook logo and user image saved as 'SocialHubX QR Code'.")
 final_qr.show()  # Display the QR code
