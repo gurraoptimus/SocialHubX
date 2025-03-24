@@ -1,2 +1,2 @@
 # [GitHub]
-# How people build software.
+## How people build software.

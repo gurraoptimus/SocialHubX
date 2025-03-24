@@ -20,7 +20,7 @@
 
 ❌ [LinkedIn](./Linkedin/) comming soon.
 
-❌ [GitHub](./Github/) comming soon.
+✔ [GitHub](./Github/)
 
 ❌ [Linktree](./Linktree/) comming soon.
 
