@@ -87,7 +87,7 @@ logo.putalpha(circle_mask)
 # ============================
 # 📸 Step 5: Insert User Profile Picture (Inside the Circular Logo)
 # ============================
-user_img_url = f"https://static.github.com/favicon.ico"  # User provides the URL
+user_img_url = f"https://github.com/fluidicon.png"  # User provides the URL
 
 try:
     # Fetch the user image from the URL
