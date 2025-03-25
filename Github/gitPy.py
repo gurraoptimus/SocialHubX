@@ -9,7 +9,7 @@ from io import BytesIO
 # ============================
 #github_username = "github"
 github_username = input("Enter your github username: ")  # User can input their github username
-github_repositories = input("Enter your github repositories: ")  # User can input their github repositories
+github_repositories = input("Enter your github repository: ")  # User can input their github repositories
 github_url = f"https://www.github.com/{github_username}/{github_repositories}.git"
 
 
