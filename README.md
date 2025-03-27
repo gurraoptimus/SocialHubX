@@ -15,7 +15,7 @@
 
 ✔ [X (Twitter)](./xTwitter/)
 
-❌ [YouTube](./YouTube) comming soon.
+✔ [YouTube](./YouTube)
 
 ❌ [LinkedIn](./Linkedin/) comming soon.
 
