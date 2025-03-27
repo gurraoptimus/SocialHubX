@@ -9,7 +9,7 @@ from io import BytesIO
 # ============================
 #youtube_username = "youtube"
 youtube_username = input("Enter your YouTube username: ")  # User can input their YouTube username
-youtube_url = f"https://www.youtube.app/@{youtube_username}/"
+youtube_url = f"https://www.youtube.com/@{youtube_username}/"
 
 # ============================
 # 📸 Step 2: Create QR Code
