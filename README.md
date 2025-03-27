@@ -2,8 +2,6 @@
 
 * Generate a single QR code that links to all your social media profiles in one place!
 
-
-
 ## Supported Platforms
 
 ✔ [Facebook](./Facebook/)
