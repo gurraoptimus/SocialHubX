@@ -25,6 +25,8 @@
 
 ❌ [Threads](./Threads) comming soon.
 
+❌ [Duolingo](./Duolingo) comming soon.
+
 
 ## Features
 
