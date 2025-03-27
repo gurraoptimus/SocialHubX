@@ -34,7 +34,6 @@ Dynamic Updates: Change linked profiles without generating a new QR code.
 
 Analytics: Track scans and engagement.
 
-
 # How to Use
 
 Enter your social media username.
@@ -42,7 +41,6 @@ Enter your social media username.
 Generate your unique QR code.
 
 Download and share it anywhere!
-
 
 ## Installation
 
