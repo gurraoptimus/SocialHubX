@@ -87,7 +87,7 @@ logo.putalpha(circle_mask)
 # ============================
 # 📸 Step 5: Insert User Profile Picture (Inside the Circular Logo)
 # ============================
-user_img_url = f"https://YT3.GOOGLEUSERCONTENT.COM/BG5WS82KGRYRMCSN1YBPTHTBXOTMJ2XJ9_7LMUE2RF6WBKJBKOVFRYPBSZ6UD3GEU_NHIWGZTQ=S160-C-K-C0X00FFFFFF-NO-RJ"# User provides the URL
+user_img_url = f"https://yt3.googleusercontent.com/Bg5wS82KGryRmcsn1YbPThtbXoTmj2XJ9_7LmuE2RF6wbKJBkovfRypbSz6UD3gEu_nHiwGZtQ=s160-c-k-c0x00ffffff-no-rj"# User provides the URL
 
 try:
     # Fetch the user image from the URL
