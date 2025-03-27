@@ -2,6 +2,7 @@
 
 * Generate a single QR code that links to all your social media profiles in one place!
 
+
 ## Supported Platforms
 
 ✔ [Facebook](./Facebook/)
@@ -24,6 +25,7 @@
 
 ❌ [Threads](./Threads) comming soon.
 
+
 ## Features
 
 Custom QR Codes: Personalize with colors, logos, and designs.
@@ -33,6 +35,7 @@ Easy Sharing: Share your profile with one scan.
 Dynamic Updates: Change linked profiles without generating a new QR code.
 
 Analytics: Track scans and engagement.
+
 
 # How to Use
 
