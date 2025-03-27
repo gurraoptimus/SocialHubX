@@ -7,8 +7,8 @@ from io import BytesIO
 # ============================
 # 🔗 Step 1: User Input for YouTube Profile URL
 # ============================
-youtube_username = "youtube"
-#youtube_username = input("Enter your YouTube username: ")  # User can input their YouTube username
+#youtube_username = "youtube"
+youtube_username = input("Enter your YouTube username: ")  # User can input their YouTube username
 youtube_url = f"https://www.youtube.com/@{youtube_username}/"
 
 # ============================
