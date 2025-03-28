@@ -9,7 +9,7 @@ from io import BytesIO
 # ============================
 #linktree_username = "linktree"
 linktree_username = input("Enter your Linktree username: ")  # User can input their Linktree username
-linktree_url = f"https://www.linktr.ee/@{linktree_username}/"
+linktree_url = f"https://www.linktr.ee/{linktree_username}/"
 
 # ============================
 # 📸 Step 2: Create QR Code
