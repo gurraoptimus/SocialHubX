@@ -9,7 +9,7 @@ from io import BytesIO
 # ============================
 #duolingo_username = "duolingo"
 duolingo_username = input("Enter your Duolingo username: ")  # User can input their Duolingo username
-duolingo_url = f"https://www.duolingo.com/@{duolingo_username}/"
+duolingo_url = f"https://www.duolingo.com/profile{duolingo_username}/"
 
 # ============================
 # 📸 Step 2: Create QR Code
