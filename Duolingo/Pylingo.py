@@ -123,4 +123,4 @@ final_qr.paste(logo, logo_position, mask=logo)
 final_qr.save("../SocialHubX_qr.png")
 
 print("✅ QR code with circular Duolingo logo and user image saved as 'SocialHubX QR Code'.")
-final_qr.show()  # Display the QR code
+#final_qr.show()  # Display the QR code
