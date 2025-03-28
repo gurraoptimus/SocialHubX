@@ -9,7 +9,7 @@ from io import BytesIO
 # ============================
 socialhubx_topics = "socialhubx"
 #socialhubx_topics = input("Enter your SocialHubX username: ")  # User can input their SocialHubX username
-socialhubx_url = f"https://www.github.com/topics{socialhubx_topics}"
+socialhubx_url = f"https://www.github.com/topics/{socialhubx_topics}"
 
 # ============================
 # 📸 Step 2: Create QR Code
