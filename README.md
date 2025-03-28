@@ -21,11 +21,11 @@
 
 ✔ [GitHub](./Github/)
 
-❌ [Linktree](./Linktree/) comming soon.
+✔ [Linktree](./Linktree)
 
 ❌ [Threads](./Threads) comming soon.
 
-❌ [Duolingo](./Duolingo) comming soon.
+✔ [Duolingo](./Duolingo)
 
 
 ## Features
