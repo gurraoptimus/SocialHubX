@@ -7,8 +7,8 @@ from io import BytesIO
 # ============================
 # 🔗 Step 1: User Input for Duolingo Profile URL
 # ============================
-duolingo_username = "duolingo"
-#duolingo_username = input("Enter your Duolingo username: ")  # User can input their Duolingo username
+#duolingo_username = "duolingo"
+duolingo_username = input("Enter your Duolingo username: ")  # User can input their Duolingo username
 duolingo_url = f"https://www.duolingo.com/profile/{duolingo_username}/"
 
 # ============================
@@ -123,4 +123,4 @@ final_qr.paste(logo, logo_position, mask=logo)
 final_qr.save("../SocialHubX_qr.png")
 
 print("✅ QR code with circular Duolingo logo and user image saved as 'SocialHubX QR Code'.")
-#final_qr.show()  # Display the QR code
+final_qr.show()  # Display the QR code
