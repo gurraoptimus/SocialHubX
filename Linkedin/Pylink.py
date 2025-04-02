@@ -9,7 +9,7 @@ from io import BytesIO
 # ============================
 #linkedin_username = "linkedin"
 linkedin_username = input("Enter your LinkedIn username: ")  # User can input their LinkedIn username
-linkedin_url = f"https://www.linkedin.com/in{linkedin_username}/"
+linkedin_url = f"https://www.linkedin.com/in/{linkedin_username}/"
 
 # ============================
 # 📸 Step 2: Create QR Code
