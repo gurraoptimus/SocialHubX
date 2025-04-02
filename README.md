@@ -23,11 +23,11 @@
 
 ✔ [Linktree](./Linktree)
 
-❌ [Threads](./Threads) comming soon.
+✔ [Threads](./Threads)
 
 ✔ [Duolingo](./Duolingo)
 
-❌ Reddit(./Reddit) commig soon.
+❌ [Reddit](./Reddit) commig soon.
 
 
 ## Features
