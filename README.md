@@ -17,7 +17,7 @@
 
 ✔ [YouTube](./YouTube)
 
-❌ [LinkedIn](./Linkedin/) comming soon.
+✔ [LinkedIn](./Linkedin/)
 
 ✔ [GitHub](./Github/)
 
