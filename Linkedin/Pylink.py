@@ -5,11 +5,11 @@ import requests
 from io import BytesIO
 
 # ============================
-# 🔗 Step 1: User Input for Linkedin Profile URL
+# 🔗 Step 1: User Input for LinkedIn Profile URL
 # ============================
 #linkedin_username = "linkedin"
-linkedin_username = input("Enter your Linkedin username: ")  # User can input their Linkedin username
-linkedin_url = f"https://www.linkedin.com/{linkedin_username}/"
+linkedin_username = input("Enter your LinkedIn username: ")  # User can input their LinkedIn username
+linkedin_url = f"https://www.linkedin.com/in{linkedin_username}/"
 
 # ============================
 # 📸 Step 2: Create QR Code
@@ -28,12 +28,12 @@ qr_image = qr.make_image(fill="black", back_color="white").convert("RGBA")
 qr_width, qr_height = qr_image.size
 
 # ============================
-# 🎨 Step 3: Apply Linkedin Gradient to QR Code
+# 🎨 Step 3: Apply LinkedIn Gradient to QR Code
 # ============================
 gradient = Image.new("RGBA", (qr_width, qr_height), (255, 255, 255, 255))
 draw = ImageDraw.Draw(gradient)
 
-# Linkedin gradient colors
+# LinkedIn gradient colors
 colors = [
     (255, 195, 0),   # Yellow
     (255, 87, 34),   # Orange
@@ -62,7 +62,7 @@ for y in range(qr_height):
 final_qr = Image.fromarray(qr_array)
 
 # ============================
-# 🎭 Step 4: Create a Circular Linkedin Logo
+# 🎭 Step 4: Create a Circular LinkedIn Logo
 # ============================
 logo_size = qr_width // 3  # Adjust logo size
 circle_mask = Image.new("L", (logo_size, logo_size), 0)
@@ -73,7 +73,7 @@ mask_draw.ellipse((0, 0, logo_size, logo_size), fill=255)  # Make it a perfect c
 logo = Image.new("RGBA", (logo_size, logo_size), (255, 255, 255, 0))
 draw = ImageDraw.Draw(logo)
 
-# Draw Linkedin-style gradient background
+# Draw LinkedIn-style gradient background
 for y in range(logo_size):
     r, g, b = [
         int(colors[0][i] * (1 - y / logo_size) + colors[-1][i] * (y / logo_size))
@@ -111,7 +111,7 @@ try:
 
 except Exception as e:
     print(f"⚠️ Error loading user profile image from URL: {e}")
-    print("Using only Linkedin logo.")
+    print("Using only LinkedIn logo.")
 
 # ============================
 # 🖼️ Step 6: Overlay Circular Logo on QR Code
@@ -122,5 +122,5 @@ final_qr.paste(logo, logo_position, mask=logo)
 # Save the final QR code
 final_qr.save("../SocialHubX_qr.png")
 
-print("✅ QR code with circular Linkedin logo and user image saved as 'SocialHubX QR Code'.")
+print("✅ QR code with circular LinkedIn logo and user image saved as 'SocialHubX QR Code'.")
 final_qr.show()  # Display the QR code
