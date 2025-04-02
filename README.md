@@ -27,6 +27,8 @@
 
 ✔ [Duolingo](./Duolingo)
 
+❌ Reddit(./Reddit) commig soon.
+
 
 ## Features
 
