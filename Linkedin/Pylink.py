@@ -87,7 +87,7 @@ logo.putalpha(circle_mask)
 # ============================
 # 📸 Step 5: Insert User Profile Picture (Inside the Circular Logo)
 # ============================
-user_img_url = f"artdeco/static/images/icons.svg"  # User provides the URL
+user_img_url = f"https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico"  # User provides the URL
 
 try:
     # Fetch the user image from the URL
