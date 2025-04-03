@@ -8,9 +8,7 @@ from io import BytesIO
 # 🔗 Step 1: User Input for Reddit Profile URL
 # ============================
 #reddit_username = "reddit"
-reddit_username = input("Enter your Reddit username: ")  # User can input their Reddit username
 reddit_community = input("Enter your Reddit community: ")  # User can input their Reddit community
-reddit_url = f"https://www.reddit.com/user/{reddit_username}/"
 reddit_url = f"https://www.reddit.com/r/{reddit_community}/"
 
 # ============================
