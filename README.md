@@ -26,7 +26,7 @@
 
 ✔ [Duolingo](./Duolingo)
 
-❌ [Reddit](./Reddit) commig soon.
+✔ [Reddit](./Reddit)
 
 ❌ [kakao Talk](./kakao) commig soon.
 
