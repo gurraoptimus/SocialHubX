@@ -87,7 +87,7 @@ logo.putalpha(circle_mask)
 # ============================
 # 📸 Step 5: Insert User Profile Picture (Inside the Circular Logo)
 # ============================
-user_img_url = f"https://redditstatic.com/shreddit/assets/favicon/180x180.png"  # User provides the URL
+user_img_url = f"https://www.redditstatic.com/shreddit/assets/favicon/180x180.png"  # User provides the URL
 
 try:
     # Fetch the user image from the URL
