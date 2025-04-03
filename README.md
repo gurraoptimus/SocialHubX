@@ -2,7 +2,6 @@
 
 * Generate a single QR code that links to all your social media profiles in one place!
 
-
 ## Supported Platforms
 
 ✔ [Facebook](./Facebook/)
@@ -29,6 +28,9 @@
 
 ❌ [Reddit](./Reddit) commig soon.
 
+❌ [kakao Talk](./kakao) commig soon.
+
+❌ [kakao story](./kakao) commig soon.
 
 ## Features
 
@@ -39,7 +41,6 @@ Easy Sharing: Share your profile with one scan.
 Dynamic Updates: Change linked profiles without generating a new QR code.
 
 Analytics: Track scans and engagement.
-
 
 # How to Use
 
