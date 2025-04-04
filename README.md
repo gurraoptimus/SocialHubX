@@ -1,4 +1,5 @@
-# SocialHubX - QR Code Generator for All Users
+    logo
+# SocialHubX - QR Code Generator.
 
 * Generate a single QR code that links to all your social media profiles in one place!
 
