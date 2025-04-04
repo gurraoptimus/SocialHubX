@@ -28,7 +28,7 @@
 
 ✔ [Reddit](./Reddit)
 
-❌ [kakao Talk](./kakao) commig soon.
+❌ [kakao Talk](./kakao) debug.
 
 ✔ [kakao story](./kakao)
 
