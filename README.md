@@ -30,7 +30,7 @@
 
 ❌ [kakao Talk](./kakao) commig soon.
 
-❌ [kakao story](./kakao) commig soon.
+✔ [kakao story](./kakao)
 
 ## Features
 

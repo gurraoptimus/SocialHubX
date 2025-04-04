@@ -9,7 +9,7 @@ from io import BytesIO
 # ============================
 #kakaostory_username = "kakaostory"
 kakaostory_username = input("Enter your KakaoStory username: ")  # User can input their KakaoStory username
-kakaostory_url = f"https://www.story.kakao.com/{kakaostory_username}/"
+kakaostory_url = f"https://story.kakao.com/{kakaostory_username}/"
 
 # ============================
 # 📸 Step 2: Create QR Code
