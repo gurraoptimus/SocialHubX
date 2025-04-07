@@ -112,4 +112,3 @@ This project is open-source and available under the Apache License.
 
 [license-shield]: https://img.shields.io/github/license/gurraoptimus/SocialHubX.svg?-style=flat-square
 [license-url]: https://github.com/gurraoptimus/SocialHubX/blob/main/LICENSE
-[appveyor-shield]: https://img.shields.io/appveyor/build/gurraoptimus/SocialHubX
