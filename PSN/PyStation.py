@@ -20,7 +20,7 @@ qr = qrcode.QRCode(
     box_size=10,
     border=4,
 )
-qr.add_data(playstation_url)
+qr.add_data(psn_url)
 qr.make(fit=True)
 
 # Convert QR code to an image
