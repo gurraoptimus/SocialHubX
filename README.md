@@ -3,7 +3,7 @@
     <img src="https://repository-images.githubusercontent.com/952452402/31a99a4d-ef9d-4789-9cc4-b1b2cb4a0522" alt="Logo" width="100" height="100">
   </a>
 
-<h3 align="center">SocialHubX - QR Code Generator.</h3>
+<h2 align="center">SocialHubX - QR Code Generator.</h2>
 
 <p align="center">Generate a single QR code that links to all your social media profiles in one place!
   <br />
