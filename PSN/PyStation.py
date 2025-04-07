@@ -9,7 +9,7 @@ from io import BytesIO
 # ============================
 psn_username = "playstation"
 #psn_username = input("Enter your Playstation username: ")  # User can input their Playstation username
-psn_url = f"https://www.playstation.com/{psn_username}/"
+psn_url = f"https://profile.playstation.com/{psn_username}/"
 
 # ============================
 # 📸 Step 2: Create QR Code
