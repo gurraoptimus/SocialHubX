@@ -55,7 +55,7 @@
 
 ✔ [Kakao story](./kakao)
 
-❌[Sony PSN](./PSN) comming soon.
+❌[Sony PSN](./PSN) debug.
 
 ## Features
 
