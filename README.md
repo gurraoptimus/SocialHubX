@@ -12,8 +12,9 @@
     ·
     <a href="https://github.com/gurraoptimus/SocialHubX/issues">REQUEST FEATURE</a>
     .
-     <a href="#How to Use"><b>HOW TO USE</b></a>
-     <A HERF=>Features
+    <a href="#How to Use"><b>HOW TO USE</b></a>
+    .
+    <a href="#FEATURES"><b>FEATURES<b></a>
   </p>
   
 <!-- TABLE OF CONTENTS -->
