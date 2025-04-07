@@ -7,8 +7,8 @@ from io import BytesIO
 # ============================
 # 🔗 Step 1: User Input for Playstation Profile URL
 # ============================
-psn_username = "playstation"
-#psn_username = input("Enter your Playstation username: ")  # User can input their Playstation username
+#psn_username = "playstation"
+psn_username = input("Enter your Playstation username: ")  # User can input their Playstation username
 psn_url = f"https://profile.playstation.com/{psn_username}/"
 
 # ============================
