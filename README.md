@@ -1,7 +1,6 @@
 [![GPL-3.0 License][license-shield]][license-url]
 
 <br />
-
 <p align="center">
   <a href="https://github.com/gurraoptimus/SocialHubX">
     <img src="https://repository-images.githubusercontent.com/952452402/31a99a4d-ef9d-4789-9cc4-b1b2cb4a0522" alt="Logo" width="80" height="80">
