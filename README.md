@@ -6,7 +6,21 @@
 
 <h3 align="center">SocialHubX - QR Code Generator.</h3>
 
-<p align="center">Generate a single QR code that links to all your social media profiles in one place! <>
+<p align="center">Generate a single QR code that links to all your social media profiles in one place!
+  <br />
+    <a href="https://github.com/gurraoptimus/SocialHubX/issues">REPORT BUG</a>
+    ·
+    <a href="https://github.com/gurraoptimus/SocialHubX/issues">REQUEST FEATURE</a>
+    .
+     <a href="#How to Use"><b>HOW TO USE</b></a>
+     <A HERF=>Features
+  </p>
+  
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+* [Contributing](#contributing)
+* [License](#license)
+
 
 ## Supported Platforms
 
