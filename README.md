@@ -12,7 +12,7 @@
     ·
     <a href="https://github.com/gurraoptimus/SocialHubX/issues">REQUEST FEATURE</a>
     .
-    <a href="#How to Use"><b>HOW TO USE</b></a>
+    <a href="#HowtoUse"><b>HOW TO USE</b></a>
     .
     <a href="#FEATURES"><b>FEATURES<b></a>
   </p>
@@ -65,7 +65,7 @@ Dynamic Updates: Change linked profiles without generating a new QR code.
 
 Analytics: Track scans and engagement.
 
-# How to Use
+## HowtoUse
 
 Enter your social media username.
 
