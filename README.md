@@ -65,7 +65,7 @@ Dynamic Updates: Change linked profiles without generating a new QR code.
 
 Analytics: Track scans and engagement.
 
-## HowtoUse
+## How to Use
 
 Enter your social media username.
 
