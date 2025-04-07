@@ -1,4 +1,5 @@
-
+[![GPL-3.0 License][license-shield]][license-url]
+<br>
 <p align="center">
   <a href="https://github.com/gurraoptimus/SocialHubX">
     <img src="https://repository-images.githubusercontent.com/952452402/31a99a4d-ef9d-4789-9cc4-b1b2cb4a0522" alt="Logo" width="80" height="80">
@@ -8,18 +9,16 @@
 
 <p align="center">Generate a single QR code that links to all your social media profiles in one place!
   <br />
-    <a href="https://github.com/gurraoptimus/SocialHubX/issues">REPORT BUG</a>
+    <a href="# https://github.com/gurraoptimus/SocialHubX/issues">REPORT BUG</a>
     ·
-    <a href="https://github.com/gurraoptimus/SocialHubX/issues">REQUEST FEATURE</a>
-    .
-    <a href="#HowtoUse"><b>HOW TO USE</b></a>
+    <a href="# https://github.com/gurraoptimus/SocialHubX/issues">REQUEST FEATURE</a>
     .
     <a href="#FEATURES"><b>FEATURES<b></a>
   </p>
   
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-* [Contributing](#contributing)
+* [Contribution](#Contribution)
 * [License](#license)
 
 
