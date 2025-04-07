@@ -29,9 +29,11 @@
 
 ✔ [Reddit](./Reddit)
 
-❌ [kakao Talk](./kakao) debug.
+❌ [Kakao Talk](./kakao) debug.
 
-✔ [kakao story](./kakao)
+✔ [Kakao story](./kakao)
+
+❌[Sony PSN](./PSN) comming soon.
 
 ## Features
 
