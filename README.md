@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gurraoptimus/SocialHubX">
-    <img src="https://repository-images.githubusercontent.com/952452402/31a99a4d-ef9d-4789-9cc4-b1b2cb4a0522" alt="Logo" width="100" height="180">
+    <img src="https://repository-images.githubusercontent.com/952452402/31a99a4d-ef9d-4789-9cc4-b1b2cb4a0522" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">SocialHubX - QR Code Generator.</h3>
