@@ -112,5 +112,5 @@ Feel free to contribute by submitting pull [requests](https://github.com/gurraop
 
 This project is open-source and available under the Apache License.
 
-<!-- [license-shield]: https://img.shields.io/github/license/gurraoptimus/SocialHubX.svg?-style=flat-square -->
+[license-shield]: https://img.shields.io/github/license/gurraoptimus/SocialHubX.svg?-style=flat-square
 <!-- [license-url]: https://github.com/gurraoptimus/SocialHubX/blob/main/LICENSE -->
