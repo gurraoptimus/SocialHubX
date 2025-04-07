@@ -7,11 +7,11 @@
 
 <p align="center">Generate a single QR code that links to all your social media profiles in one place!
   <br />
+   <a href="#FEATURES"><b>FEATURES<b></a>
+    .
     <a href="https://github.com/gurraoptimus/SocialHubX/issues">REPORT BUG</a>
     ·
     <a href="https://github.com/gurraoptimus/SocialHubX/issues">REQUEST FEATURE</a>
-    .
-    <a href="#FEATURES"><b>FEATURES<b></a>
 
 <p align="center">
     <a href="https://opensource.org/licenses/Apache-2.0">
