@@ -12,10 +12,8 @@
     <a href="https://github.com/gurraoptimus/SocialHubX/issues">REQUEST FEATURE</a>
     .
     <a href="#FEATURES"><b>FEATURES<b></a>
-  </p>
-
-  [![GPL-3.0 License][license-shield]][license-url]
-  <br />
+    
+   <p align="center"><br />[![GPL-3.0 License][license-shield]][license-url] </p>
   
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
