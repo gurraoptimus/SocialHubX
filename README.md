@@ -13,7 +13,7 @@
     .
     <a href="#FEATURES"><b>FEATURES<b></a>
     
-   <p align="center"><br />[![GPL-3.0 License][license-shield]][license-url] </p>
+[![GPL-3.0 License][license-shield]][license-url]
   
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
