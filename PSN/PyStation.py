@@ -88,9 +88,8 @@ logo.putalpha(circle_mask)
 # 📸 Step 5: Insert User Profile Picture (Inside the Circular Logo)
 # ============================
 # Example default avatar ID (replace this with a real one if needed)
-default_avatar_id = "avatar1"  # Example: "01", or "avatar1", or a known string
-user_img_url = f"https://static-resource.np.community.playstation.net/avatar_m/default/{default_avatar_id}.png" # User provides the URL
-
+avatar_id = "EP8943/"  # Example avatar ID (replace with actual ID)
+user_img_url = f"https://psn-rsc.prod.dl.playstation.net/psn-rsc/avatar/{avatar_id}_xl.png"
 try:
     # Fetch the user image from the URL
     response = requests.get(user_img_url)
