@@ -87,7 +87,7 @@ logo.putalpha(circle_mask)
 # ============================
 # 📸 Step 5: Insert User Profile Picture (Inside the Circular Logo)
 # ============================
-user_img_url = f"https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/281440578_1088265838702675_6233856337905829714_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QHHE-ZLT_T8jgBBUfxV7nPsE8eFO1zZIwDH_UozmDI8bt41XH4x5wm4WfQMxUp2kaw&_nc_ohc=wd0IuiyrqDEQ7kNvgHkMxbw&_nc_gid=WY0Ord4Sk8rB6wgsQ6rFig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYGG3b_X87VB5mxoYhO41KMQxIn-mA00TDhdk1NjQHjRGQ&oe=67E1D998&_nc_sid=10d13b"  # User provides the URL
+user_img_url = f"https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/281440578_1088265838702675_6233856337905829714_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QFBQw53wEhsiYYnjpxy5gzacxQ6xWBvsFHLeQEgzgEdAWhpT54TzQeTFEvXm05gTSLeVN1vUYtlRaC-HPViTW3H&_nc_ohc=XKDb5yE4KZAQ7kNvwEXZMXO&_nc_gid=vjZvAl9CSq7n3-5KtF-m0g&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfG7061-iDFvmLGvLKYeBpuTkmSj3wSh6byGN6SnzhNzEg&oe=68146318&_nc_sid=7a9f4b"  # User provides the URL
 
 try:
     # Fetch the user image from the URL
