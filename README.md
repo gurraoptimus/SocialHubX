@@ -57,7 +57,7 @@
 
 ❌[Sony PSN](./PSN) debug.
 
-✔ [CoddyTech](./pyddy.py)
+✔ [CoddyTech](./Coddy)
 
 ## Features
 
