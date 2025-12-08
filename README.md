@@ -57,6 +57,8 @@
 
 ❌[Sony PSN](./PSN) debug.
 
+✔ [CoddyTech](./pyddy.py)
+
 ## Features
 
 Custom QR Codes: Personalize with colors, logos, and designs.
