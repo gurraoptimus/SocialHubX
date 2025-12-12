@@ -9,7 +9,7 @@ from io import BytesIO
 # ============================
 #coddy_username = "coddy"
 coddy_username = input("Enter your coddy username: ")  # User can input their coddy username
-coddy_url = f"https://www.coddy.tech/{coddy_username}/"
+coddy_url = f"https://www.coddy.tech/user/{coddy_username}/"
 
 # ============================
 # 📸 Step 2: Create QR Code
